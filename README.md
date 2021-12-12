@@ -1,7 +1,7 @@
 VoteChainByTushar
 ==================
 See https://github.com/TusharPanchal09/VoteChainByTushar/discussions/1#discussion-3736787 for Demo
-==================================================================================================
+--------------------------------------------------------------------------------------------------
 
 This [React] app was initialized with [create-near-app]
 
